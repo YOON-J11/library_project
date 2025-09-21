@@ -41,7 +41,8 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 
 아래는 프로젝트에서 사용된 데이터베이스 테이블 간 관계(ERD)입니다.
 
-<img width="879" height="681" alt="DB" src="https://github.com/user-attachments/assets/1d4a805c-da97-4dd2-9995-f5924ed8f5b3" />
+<img width="627" height="818" alt="image" src="https://github.com/user-attachments/assets/59f2c6ca-7330-44ed-8070-ec0446e75e7e" />
+
 
 ---
 
