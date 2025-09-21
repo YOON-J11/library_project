@@ -79,9 +79,7 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 ---
 
 ### 📌 메인 페이지에 최신 게시글 5건 노출
-
-<img width="835" height="548" alt="1" src="https://github.com/user-attachments/assets/970b9730-96ef-47bb-84aa-87f2c022be1e" />
-<img width="872" height="527" alt="2" src="https://github.com/user-attachments/assets/6079f5a7-4fb5-4eca-b858-5ed33dd2a09d" />
+<img width="1506" height="888" alt="image" src="https://github.com/user-attachments/assets/7b4c70a3-92f6-4a62-bf7b-48603dde9e0e" />
 
 ---
 
