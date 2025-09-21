@@ -52,19 +52,24 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 ### 📌 게시판 모듈 전체 구현  
 공지사항, 서평, 문의, 배너 게시판 등 전체 게시판 기능을 기획하고 구현하였습니다.
 
-<img width="904" height="626" alt="4" src="https://github.com/user-attachments/assets/bfeb5427-aa0c-492c-8b8e-d4815b7c2418" />
+<img width="1720" height="1141" alt="image" src="https://github.com/user-attachments/assets/2a663397-e6c6-4b38-89e0-7704d62debbd" />
+<img width="1652" height="1181" alt="image" src="https://github.com/user-attachments/assets/38a79f7a-9b48-46ff-9da2-cff73f25faa1" />
+<img width="1467" height="1177" alt="image" src="https://github.com/user-attachments/assets/a47a5ccb-edad-4bbe-b434-2dc1882d4208" />
+
 
 ---
 
 ### 📌 게시글 등록 / 수정 / 삭제 / 조회 기능 구현
 
-<img width="895" height="672" alt="5" src="https://github.com/user-attachments/assets/79f91ea3-7a8d-4f14-9ace-1e9ceb3dfbdb" />
+<img width="1602" height="1196" alt="image" src="https://github.com/user-attachments/assets/3226c03c-41fc-4916-b057-171458a831ef" />
+<img width="1626" height="1156" alt="image" src="https://github.com/user-attachments/assets/c26de331-b043-42d5-8b8d-b7ffdb0422b1" />
+
 
 ---
 
 ### 📌 게시판별 리스트 & 상세 페이지 및 데이터 연동 처리
+<img width="1600" height="1154" alt="image" src="https://github.com/user-attachments/assets/01c81eea-2d26-40df-8787-7732d8276b84" />
 
-<img width="895" height="646" alt="6" src="https://github.com/user-attachments/assets/77102e4a-db4c-445e-af27-93cd1576d284" />
 
 ---
 
